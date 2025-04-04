@@ -13,7 +13,7 @@ Databaze (docker):
 
 Run server: 
 ```./gradlew bootRun```
-Dokumantation (swagger): http://localhost:8080/swagger-ui/index.html
+Documentation (swagger): http://localhost:8080/swagger-ui/index.html
 
 
 ### Client: omds-client
